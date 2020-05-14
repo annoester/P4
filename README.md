@@ -11,3 +11,6 @@ GUI.mlapp is a MATLAB app which receives the data from the ESP32 of the central 
 
 
 SPI_ADXL355.ino is used for testing the SPI communication between ADXL355 and ESP32, and is not included in the implemented system. 
+
+
+Data_Record_HRM.ino is used for testing the AD8232 Heart Rate Monitor, and is not included in the implemented system. 
